@@ -1,9 +1,18 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "My basic foundations knowledge base work on Machine Learning Neural Networks"
 ---
+
+## Main Categories
+
+- [[1 introduction/index|1 Introduction]]
+- [[2 types/index|2 Types]]
+- [[3 architecture/index|3 Architecture]]
+- [[4 optimization and infrastructure/index|4 Optimization and Infrastructure]]
+- [[5 deploying and monitoring/index|5 Deploying and monitoring]]
+
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is the index page (`content/index.md`) of your knowledge base docs. It  serves as the home page for your website.
 
 ## Editing pages
 
@@ -38,5 +47,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Creating new docs]] to learn more.
 
