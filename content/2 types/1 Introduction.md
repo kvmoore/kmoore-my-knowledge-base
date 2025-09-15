@@ -13,7 +13,7 @@ In this section, I will provide an explanation of some of the main and most pred
 - Transformers – Large language models, translation, vision imaging, and chat 
 bots  
 
-![Simple Feed forward neural network](https://en.wikipedia.org/wiki/Feedforward_neural_network#/media/File:Feed_forward_neural_net.gif "Feed forward Neural Network Diagram")
+![Simple Feed forward neural network](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Feed_forward_neural_net.gif/250px-Feed_forward_neural_net.gif "Feed forward Neural Network Diagram")
 
 ## Navigation
 [[index|Back to Index]]  
