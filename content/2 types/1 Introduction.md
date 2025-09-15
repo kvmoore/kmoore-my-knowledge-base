@@ -10,8 +10,10 @@ In this section, I will provide an explanation of some of the main and most pred
 
 - Recurrent Neural Networks – Natural language processing, forecasting  and music generation
 
-- Transformers – Large language models, translation, vision imaging, and  chat bots
+- Transformers – Large language models, translation, vision imaging, and chat 
+bots  
 
+![Simple Feed forward neural network](https://en.wikipedia.org/wiki/Feedforward_neural_network#/media/File:Feed_forward_neural_net.gif "Feed forward Neural Network Diagram")
 
 ## Navigation
 [[index|Back to Index]]  
