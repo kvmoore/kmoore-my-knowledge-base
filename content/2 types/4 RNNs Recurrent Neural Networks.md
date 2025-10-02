@@ -6,7 +6,7 @@ More advanced variants were developed to address a vanishing gradient problem (i
 
 
 ## Navigation
-[[index|Back to Index]]  
+[[index|Back to Types Index]]  
 [[3 CNNs Convolutional Neural Networks|Previous: Convolutional Neural Networks]]  
 [[5 Transformers|Next: Transformers]]
 
@@ -17,5 +17,4 @@ More advanced variants were developed to address a vanishing gradient problem (i
 [[2 FFNs Feedforward Neural Networks|FFNs]] | 
 [[3 CNNs Convolutional Neural Networks|CNNs]] | 
 [[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]] | 
-[[index|Index]]
+[[5 Transformers|Transformers]] 

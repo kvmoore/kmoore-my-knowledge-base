@@ -16,7 +16,7 @@ bots
 ![Simple Feed forward neural network](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Feed_forward_neural_net.gif/250px-Feed_forward_neural_net.gif "Feed forward Neural Network Diagram")
 
 ## Navigation
-[[index|Back to Index]]  
+[[index|Back to Types Index]]  
 [[2 FFNs Feedforward Neural Networks|Next: Feedforward Neural Networks]]
 
 ---
@@ -26,5 +26,4 @@ bots
 [[2 FFNs Feedforward Neural Networks|FFNs]] | 
 [[3 CNNs Convolutional Neural Networks|CNNs]] | 
 [[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]] | 
-[[index|Index]]
+[[5 Transformers|Transformers]]

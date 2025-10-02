@@ -4,7 +4,7 @@ Transformers have been quite a significant breakthrough in deep learning. They a
 
 
 ## Navigation
-[[index|Back to Index]]  
+[[index|Back to Types Index]]  
 [[4 RNNs Recurrent Neural Networks|Previous: Recurrent Neural Networks]]
 
 ---
@@ -14,5 +14,4 @@ Transformers have been quite a significant breakthrough in deep learning. They a
 [[2 FFNs Feedforward Neural Networks|FFNs]] | 
 [[3 CNNs Convolutional Neural Networks|CNNs]] | 
 [[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]] | 
-[[index|Index]]
+[[5 Transformers|Transformers]]

@@ -5,7 +5,7 @@ These neural networks are the simplest and most widely recognized.  They form th
 Despite their limitations, because of their simplicity,t hey are often used as a starting point for learning how neural networks work. They are still used quite a bit today where tabular and is not dependent on sequence or special relationships. Feed Forward Neural Networks are the backbone of neural network theory and serve to help us understand more advance architectures.
 
 ## Navigation
-[[index|Back to Index]]  
+[[index|Back to Types Index]]  
 [[1 Introduction|Previous: Introduction]]  
 [[3 CNNs Convolutional Neural Networks|Next: Convolutional Neural Networks]]
 
@@ -16,5 +16,4 @@ Despite their limitations, because of their simplicity,t hey are often used as a
 [[2 FFNs Feedforward Neural Networks|FFNs]] | 
 [[3 CNNs Convolutional Neural Networks|CNNs]] | 
 [[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]] | 
-[[index|Index]]
+[[5 Transformers|Transformers]]
