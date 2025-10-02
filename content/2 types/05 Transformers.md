@@ -5,6 +5,6 @@ Transformers have been quite a significant breakthrough in deep learning. They a
 
 ## Navigation
 [[index|Back to Types Index]]  
-[[4 RNNs Recurrent Neural Networks|Previous: Recurrent Neural Networks]]
+[[04 RNNs Recurrent Neural Networks|Previous: Recurrent Neural Networks]]
 
 ---

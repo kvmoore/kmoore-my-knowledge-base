@@ -6,8 +6,8 @@ Despite their limitations, because of their simplicity,t hey are often used as a
 
 ## Navigation
 [[index|Back to Types Index]]  
-[[1 Introduction|Previous: Introduction]]  
-[[3 CNNs Convolutional Neural Networks|Next: Convolutional Neural Networks]]
+[[01 Introduction|Previous: Introduction]]  
+[[03 CNNs Convolutional Neural Networks|Next: Convolutional Neural Networks]]
 
 ---
 
