@@ -20,10 +20,3 @@ bots
 [[2 FFNs Feedforward Neural Networks|Next: Feedforward Neural Networks]]
 
 ---
-
-## Topics
-[[1 Introduction|Introduction]] | 
-[[2 FFNs Feedforward Neural Networks|FFNs]] | 
-[[3 CNNs Convolutional Neural Networks|CNNs]] | 
-[[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]]

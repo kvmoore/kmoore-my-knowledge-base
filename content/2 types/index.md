@@ -13,10 +13,3 @@ Different types of neural networks will have a different architectures [[3 archi
 - [[5 Transformers|Transformers]]
 
 ---
-
-## Topics
-[[1 Introduction|Introduction]] | 
-[[2 FFNs Feedforward Neural Networks|FFNs]] | 
-[[3 CNNs Convolutional Neural Networks|CNNs]] | 
-[[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]]

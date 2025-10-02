@@ -11,9 +11,3 @@ Despite their limitations, because of their simplicity,t hey are often used as a
 
 ---
 
-## Topics
-[[1 Introduction|Introduction]] | 
-[[2 FFNs Feedforward Neural Networks|FFNs]] | 
-[[3 CNNs Convolutional Neural Networks|CNNs]] | 
-[[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]]

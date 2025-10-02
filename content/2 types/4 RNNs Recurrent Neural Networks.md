@@ -11,10 +11,3 @@ More advanced variants were developed to address a vanishing gradient problem (i
 [[5 Transformers|Next: Transformers]]
 
 ---
-
-## Topics
-[[1 Introduction|Introduction]] | 
-[[2 FFNs Feedforward Neural Networks|FFNs]] | 
-[[3 CNNs Convolutional Neural Networks|CNNs]] | 
-[[4 RNNs Recurrent Neural Networks|RNNs]] | 
-[[5 Transformers|Transformers]] 
