@@ -5,7 +5,7 @@ Convolutional Neural Networks are particularly designed to process data input th
 
 ## Navigation
 [[index|Back to Types Index]]  
-[[02 FFNs Feedforward Neural Networks|Previous: Feedforward Neural Networks]]  
-[[04 RNNs Recurrent Neural Networks|Next: Recurrent Neural Networks]]
+[[2 FFNs Feedforward Neural Networks|Previous: Feedforward Neural Networks]]  
+[[4 RNNs Recurrent Neural Networks|Next: Recurrent Neural Networks]]
 
 ---

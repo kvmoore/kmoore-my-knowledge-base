@@ -7,7 +7,7 @@ More advanced variants were developed to address a vanishing gradient problem (i
 
 ## Navigation
 [[index|Back to Types Index]]  
-[[03 CNNs Convolutional Neural Networks|Previous: Convolutional Neural Networks]]  
-[[05 Transformers|Next: Transformers]]
+[[3 CNNs Convolutional Neural Networks|Previous: Convolutional Neural Networks]]  
+[[5 Transformers|Next: Transformers]]
 
 ---

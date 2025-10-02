@@ -17,6 +17,6 @@ bots
 
 ## Navigation
 [[index|Back to Types Index]]  
-[[02 FFNs Feedforward Neural Networks|Next: Feedforward Neural Networks]]
+[[2 FFNs Feedforward Neural Networks|Next: Feedforward Neural Networks]]
 
 ---
