@@ -1,4 +1,7 @@
-# Convolutional Neural Networks
+---
+title: Convolutional Neural networks
+date: 2025-10-02
+---
 
 Convolutional Neural Networks are particularly designed to process data input that has a grid like structure, such as images. These networks have dominated computer vision for years in areas like image recognition, detection, segmentation, video analysis, and medical imaging. The are different in that they use convolutional layers (filters) at the beginning of the network. These layers can detect spatial patterns like edges and shapes in data. A key feature in the convolutional layers is that they use weight sharing in that they contain small filters or kernels that slide over the input. When these filters are slid over the input data, they can detect patterns and can learn to detect specific features. The convolutional layers are followed by activation functions and then what they call Pooling layers. The activation functions allow the network to learn complex patterns by introducing non-linearity. The pooling layers then downsize the data to reduce its dimensionality while retaining the most important information. This in turn makes the network more computationally efficient
 
