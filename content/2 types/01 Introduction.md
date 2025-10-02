@@ -1,4 +1,7 @@
-# Introduction
+---
+title: Introduction
+date: 2025-10-02
+---
 
 In this section, I will provide an explanation of some of the main and most predominantly used neural networks in machine learning. These consist of the Feedforward Neural Networks (FNNs), Convolutional Neural Networks (CNN’s), Recurrent Neural Networks (RNNs) and Transformers. Each of these Neural Networks are designed to work best for different data and tasks, and can range from translation, computer vision, Natural language processing to generative AI and much more. The following is a list of what each of these models are primarily used for. These four neural networks for the core of deep learning and power many of today’s most state of the art AI solutions.
 

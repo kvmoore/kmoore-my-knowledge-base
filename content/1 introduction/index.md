@@ -1,5 +1,6 @@
 ---
 title: Basic introduction to Neural Networks
+date: 2025-10-02
 ---
 ![[Neural Network.jpg]]
 
