@@ -2,7 +2,7 @@
 title: Different types of Neural Networks
 ---
 ## Related Categories
-Different types of neural networks will have a different architectures [[architecture/index]].
+Different types of neural networks will have a different architectures [[3 architecture/index|3 Architecture]].
 
 
 ## Sections
