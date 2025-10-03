@@ -73,7 +73,9 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        showFolderContent: false,   // 👈 hides "X items under this folder"
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
