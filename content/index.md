@@ -1,5 +1,5 @@
 ---
-title: My basic foundations knowledge base work on Machine Learning Neural Networks
+title: My knowledge base work on the basic concepts of Machine Learning Neural Networks
 date: 2025-10-02
 ---
 
