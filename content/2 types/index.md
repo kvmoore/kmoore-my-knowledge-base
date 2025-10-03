@@ -15,4 +15,5 @@ date: 2025-10-02
 ### Related Categories
 Different types of neural networks will have a different architectures [[3 architecture/index|3 Architecture]]
 
----
+### Navigation
+[[index|Back to Main Categories]]

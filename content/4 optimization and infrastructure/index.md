@@ -8,3 +8,6 @@ date: 2025-10-02
 - [[2 model efficiency and scaling|Model Efficiency and Scaling]]
 - [[3 Compute infrastructure|Compute Infrastructure]]
 
+### Navigation
+[[index|Back to Main Categories]]
+

@@ -8,3 +8,6 @@ date: 2025-10-02
 - [[2 containerization and orchestration|Containerization and Orchestration]]
 - [[3 monitoring and observability|Monitoring and Observability]]
 - [[4 CI-CD for ML-MLOps pipelines|CI/CD for ML (MLOps Pipelines)]]
+
+### Navigation
+[[index|Back to Main Categories]]
