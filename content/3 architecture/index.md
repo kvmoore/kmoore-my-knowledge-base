@@ -4,7 +4,7 @@ date: 2025-10-02
 ---
 
 ## Sections
-- [[1 feedforward architectures]]
+- [[1 feedforward architectures|Feedforward Architectures]]
 
 
 
