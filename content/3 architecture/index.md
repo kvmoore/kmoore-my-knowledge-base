@@ -3,8 +3,8 @@ title: Breaking down the architecture basics of a Neural Network
 date: 2025-10-02
 ---
 
-
-
+## Sections
+- [[1 feedforward architectures]]
 
 
 
