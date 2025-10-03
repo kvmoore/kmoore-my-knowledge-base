@@ -74,7 +74,7 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage({
-        showFolderContent: false,   // 👈 hides "X items under this folder"
+        displayFolderContents: false,   // 👈 hides "X items under this folder"
       }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
