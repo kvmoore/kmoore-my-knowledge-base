@@ -5,7 +5,8 @@ date: 2025-10-02
 
 ## Sections
 - [[1 feedforward architectures|Feedforward Architectures]]
-
+- [[2 convolutional architectures|Convolutional Architectures]]
+- [[3 recurrent architectures|Recurrent Architectures]]
 
 
 
