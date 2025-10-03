@@ -8,8 +8,8 @@ The way Recurrent Neural Networks work is through a looping that processes seque
 More advanced variants were developed to address a vanishing gradient problem (improvements). These are called Long Short-Term Memory networks (LSTMs) and Gated Recurrent Units (GRUs). These control the flow of information better and allow the network to relevant information longer and forget irrelevant data significantly improving performance.
 
 
-## Navigation
-[[index|Back to Types Index]]  
+### Navigation
+[[index|Back to Main Catagories]]  
 [[03 CNNs Convolutional Neural Networks|Previous: Convolutional Neural Networks]]  
 [[05 Transformers|Next: Transformers]]
 
