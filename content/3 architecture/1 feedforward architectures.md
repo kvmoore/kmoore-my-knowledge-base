@@ -12,4 +12,4 @@ Feedforward neural networks, often called multilayer perceptrons (MLPs), are the
 
 ### Navigation
 [[index|Back to main categories]]
-[[02 convolutional architectures|Next: Convolutional Architectures]]
+[[2 convolutional architectures|Next: Convolutional Architectures]]
