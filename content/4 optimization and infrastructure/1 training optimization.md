@@ -11,4 +11,4 @@ Training optimization focuses on improving how neural networks learn during the 
 
 ### Navigation
 [[index|Back to Main Categories]]
-[[02 model efficiency and scaling|Next: Model Efficiency and Scaling]]
+[[2 model efficiency and scaling|Next: Model Efficiency and Scaling]]
